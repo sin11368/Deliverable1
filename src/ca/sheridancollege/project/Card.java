@@ -37,5 +37,5 @@ public class Card {
     @Override
     public String toString() {
         return number + "\t" + color;
-    }
+    } 
 }
